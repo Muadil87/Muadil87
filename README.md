@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on<br><br>KINO 🎬 – Movie Database App<br>A full-stack project using React (frontend) and Laravel (backend), powered by The Movie Database (TMDB) API.<br><br>🤝 I’m looking to collaborate on<br><br>Frontend projects with React<br><br>Beginner-friendly Laravel or REST API projects<br><br>Open-source web apps related to movies, media, or dashboards<br><br>🆘 I’m looking for help with<br><br>Advanced Laravel architecture (auth, policies, relationships)<br><br>Improving API security & performance<br><br>Best practices for React + API integration<br><br>🌱 I’m currently learning<br><br>React (Hooks, API fetching, component architecture)<br><br>Laravel (REST APIs, authentication, MySQL)<br><br>Git & GitHub workflow<br><br>Clean code & real-world project structure<br><br>💬 Ask me about<br><br>Starting full-stack projects from scratch<br><br>React basics & API consumption<br><br>GitHub project organization<br><br>Learning programming as a student<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into working apps
+Hi 👋 I'm Adil, a Computer Science student and aspiring Full-Stack Developer.  
+I enjoy building practical projects using React and Laravel and continuously improving my skills through real-world applications.
 
 
 ## 🌐 Socials:
