@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I'm Adil, a Computer Science student and aspiring Full-Stack Developer.  
+# About Me:
+Hi  I'm Adil, a Computer Science student and aspiring Full-Stack Developer.  
 I enjoy building practical projects using React and Laravel and continuously improving my skills through real-world applications.
 
 
