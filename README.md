@@ -187,11 +187,11 @@ interests:
 
 <div align="center">
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:adilbahlouli04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/adil-el-bahlouli-4292593ba/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
