@@ -42,20 +42,11 @@ languages:
   - Arabic
   - English
   - French
-  - German (Learning)
-
-currently_learning:
-  - Advanced React
-  - Laravel
-  - Django
-  - DevOps
-  - AWS
 
 interests:
   - Backend Development
   - System Architecture
   - Web Applications
-  - Datacenter & Infrastructure
 ```
 
 ---
@@ -131,45 +122,6 @@ interests:
 <img src="https://github-profile-trophy.vercel.app/?username=Muadil87&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
-
----
-
-# 💼 Featured Projects
-
-## 🖥️ Datacenter Management System
-
-> Full-stack platform for managing servers, virtual machines, and network resources.
-
-### ⚙️ Tech Used
-- React
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-- Tailwind CSS
-
----
-
-## 🎬 Kino
-
-> Hybrid cloud movie platform with AI-powered recommendations.
-
-### ⚙️ Features
-- Authentication System
-- Recommendation Engine
-- Modern UI
-- API Integration
-
----
-
-## 📋 Request Management System
-
-> Web application for managing requests, users, and workflows efficiently.
-
-### ⚙️ Features
-- Role Management
-- Dashboard Analytics
-- Authentication
-- CRUD Operations
 
 ---
 
