@@ -137,22 +137,6 @@ interests:
 
 ---
 
-<!-- Included Snake Animation to make your contribution graph interactive -->
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Responsive snake animation using the GitHub Actions output branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ## 💡 Quote Of The Day
