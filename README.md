@@ -96,7 +96,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muadil87&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Muadil87&theme=tokyonight&hide_border=true"/>
 
 </div>
 
