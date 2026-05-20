@@ -1,15 +1,19 @@
 <div align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0d1117&text=💻%20ADIL_OS%20:%20INITIALIZING_...&fontSize=30&fontColor=00ff33" />
-</p>
 
-```bash
-adil@cyber-core:~$ ssh guest@adil.dev
-Access Granted. Welcome to Adil El Bahlouli's Core Kernel.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0d1117&text=💻%20ADIL_OS%20:%20INITIALIZING...&fontSize=30&fontColor=00ff33" />
 
-adil@cyber-core:~$ cat system_specs.env
+</div>
 
-# 👋 Hey, I'm Adil
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+Software+Engineer;Always+Learning+New+Tech" />
+
+</div>
+
+---
+
 
 ### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
 
@@ -35,15 +39,14 @@ adil@cyber-core:~$ cat system_specs.env
 
 </div>
 
----
-
-# 🚀 About Me
+## 💻 About Me
 
 ```yaml
 name: Adil El Bahlouli
-located_in: Morocco 🇲🇦
-current_focus: Full-Stack Development
+location: Morocco 🇲🇦
+role: Full-Stack Developer
 education: Computer Science Student
+
 languages:
   - Arabic
   - English
@@ -53,7 +56,7 @@ interests:
   - Backend Development
   - System Architecture
   - Web Applications
-```
+# 👋 Hey, I'm Adil
 
 ---
 
