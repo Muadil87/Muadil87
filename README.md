@@ -1,19 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0d1117&text=💻%20ADIL_OS%20:%20INITIALIZING...&fontSize=30&fontColor=00ff33" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:161b22&text=Adil%20El%20Bahlouli&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+Software+Engineer;Always+Learning+New+Tech" />
-
-</div>
-
----
-
+# 👋 Hey, I'm Adil
 
 ### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
 
@@ -39,14 +28,15 @@
 
 </div>
 
-## 💻 About Me
+---
+
+# 🚀 About Me
 
 ```yaml
 name: Adil El Bahlouli
-location: Morocco 🇲🇦
-role: Full-Stack Developer
+located_in: Morocco 🇲🇦
+current_focus: Full-Stack Development
 education: Computer Science Student
-
 languages:
   - Arabic
   - English
@@ -56,7 +46,7 @@ interests:
   - Backend Development
   - System Architecture
   - Web Applications
-# 👋 Hey, I'm Adil
+```
 
 ---
 
