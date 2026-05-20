@@ -18,10 +18,12 @@
 
 <div align="center">
 
-<!-- Improved Banner: Symmetric neon-blue gradient that blends seamlessly into GitHub's default dark mode layout on the left & right -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:00bfff,100:0d1117&text=Adil%20El%20Bahlouli&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Future%20Software%20Engineer&descAlignY=55&descSize=20&descColor=00bfff&animation=fadeIn" width="100%" />
+<!-- Improved Banner: Centered name only (no subtitle), blending seamlessly into GitHub's default dark mode layout on the left & right -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:00bfff,100:0d1117&text=Adil%20El%20Bahlouli&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 # 👋 Hey, I'm Adil
+
+### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
 
 <br/>
 
@@ -29,18 +31,8 @@
 
 <br/>
 
-<!-- Bespoke Social Badges: Black background matching GitHub's UI with neon blue icons -->
-<p align="center">
-  <a href="mailto:adilbahlouli04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfff" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adil-el-bahlouli-4292593ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfff" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Muadil87">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfff" alt="GitHub"/>
-  </a>
-</p>
+<!-- Social Badges: Aligned on a single line with non-breaking spaces to guarantee horizontal layout and using reliable cached SimpleIcons colors -->
+<p align="center"><a href="mailto:adilbahlouli04@gmail.com" title="Email: adilbahlouli04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adil-el-bahlouli-4292593ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/Muadil87"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
 
 <!-- Centered Profile Views Badge -->
 <p align="center">
@@ -51,13 +43,7 @@
 
 ---
 
-<!-- Dashboard Section: About Me (YAML) and Contribution Snake (Visual) Side-by-Side -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Left Column: About Me -->
-    <td width="48%" valign="top">
-
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
 name: Adil El Bahlouli
@@ -74,25 +60,6 @@ interests:
   - System Architecture
   - Web Applications
 ```
-
-    </td>
-    <!-- Spacer -->
-    <td width="4%"></td>
-    <!-- Right Column: Contribution Snake -->
-    <td width="48%" valign="top" align="center">
-
-## 🐍 Contribution Snake
-
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -164,6 +131,21 @@ interests:
 
 <!-- Centered and styled activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muadil87&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Responsive snake animation using the GitHub Actions output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
 
 </div>
 
