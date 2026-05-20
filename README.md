@@ -1,6 +1,13 @@
 <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0d1117&text=💻%20ADIL_OS%20:%20INITIALIZING_...&fontSize=30&fontColor=00ff33" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1f6feb,100:00ffff&text=Adil%20El%20Bahlouli&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20AI%20Explorer&descSize=18&descAlignY=62" />
+```bash
+adil@cyber-core:~$ ssh guest@adil.dev
+Access Granted. Welcome to Adil El Bahlouli's Core Kernel.
+
+adil@cyber-core:~$ cat system_specs.env
 
 # 👋 Hey, I'm Adil
 
