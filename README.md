@@ -92,16 +92,6 @@ interests:
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muadil87&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
