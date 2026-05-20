@@ -93,18 +93,6 @@ interests:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muadil87&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muadil87&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
