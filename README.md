@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:161b22&text=Adil%20El%20Bahlouli&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0d1117&text=💻%20ADIL_TERMINAL%20v1.0%20BOOTING...&fontSize=28&fontColor=00ff33&animation=fadeIn" />
 
-# 👋 Hey, I'm Adil
+</div>
 
-### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
+<div align="center">
+
+```bash
+> booting profile...
+> loading: Adil El Bahlouli
+> role: Full-Stack Developer
+> system: active
+> location: Morocco 🇲🇦
+> status: online
+
+✔ access granted
+✔ environment loaded
+✔ profile initialized
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+IT+Specialist;Always+Learning+New+Technologies" />
 
