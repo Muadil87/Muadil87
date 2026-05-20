@@ -23,8 +23,6 @@
 
 # 👋 Hey, I'm Adil
 
-### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
-
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+IT+Specialist;Always+Learning+New+Technologies" />
