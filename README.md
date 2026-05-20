@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:161b22&text=Adil%20El%20Bahlouli&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:1f6feb,100:00ffff&text=Adil%20El%20Bahlouli&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20AI%20Explorer&descSize=18&descAlignY=62" />
 
 # 👋 Hey, I'm Adil
 
