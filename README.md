@@ -6,7 +6,7 @@
 
 ### 💻 Full-Stack Developer • Computer Science Student • Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+IT+Specialist+in+Germany;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Django;Building+Real-World+Projects;Future+IT+Specialist;Always+Learning+New+Technologies" />
 
 <br/>
 
@@ -37,7 +37,6 @@ name: Adil El Bahlouli
 located_in: Morocco 🇲🇦
 current_focus: Full-Stack Development
 education: Computer Science Student
-future_goal: Ausbildung in Germany 🇩🇪
 languages:
   - Arabic
   - English
