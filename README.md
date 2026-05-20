@@ -29,18 +29,16 @@
 
 <br/>
 
+<!-- Bespoke Social Badges: Black background matching GitHub's UI with neon blue icons -->
 <p align="center">
   <a href="mailto:adilbahlouli04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfff" alt="Gmail"/>
   </a>
-
-  <!-- Fixed the label link bug here -->
   <a href="https://www.linkedin.com/in/adil-el-bahlouli-4292593ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfff" alt="LinkedIn"/>
   </a>
-
   <a href="https://github.com/Muadil87">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfff" alt="GitHub"/>
   </a>
 </p>
 
@@ -53,7 +51,13 @@
 
 ---
 
-# 🚀 About Me
+<!-- Dashboard Section: About Me (YAML) and Contribution Snake (Visual) Side-by-Side -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: About Me -->
+    <td width="48%" valign="top">
+
+## 🚀 About Me
 
 ```yaml
 name: Adil El Bahlouli
@@ -71,47 +75,75 @@ interests:
   - Web Applications
 ```
 
+    </td>
+    <!-- Spacer -->
+    <td width="4%"></td>
+    <!-- Right Column: Contribution Snake -->
+    <td width="48%" valign="top" align="center">
+
+## 🐍 Contribution Snake
+
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Muadil87/Muadil87/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,php&theme=dark" alt="Languages" />
-</p>
-
----
-
-## ⚡ Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
-</p>
-
----
-
-## 🔥 Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,express,fastapi&theme=dark" alt="Backend" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" alt="Databases" />
-</p>
-
----
-
-## ☁️ DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx,apache,aws,firebase&theme=dark" alt="DevOps and Tools" />
-</p>
+<!-- Tech Stack Grid: Groups your skills side-by-side for a compact, neat look -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Languages -->
+    <td width="48%" align="center" valign="top">
+      <h3>👨‍💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,php&theme=dark" alt="Languages" />
+    </td>
+    <!-- Spacer -->
+    <td width="4%"></td>
+    <!-- Frontend -->
+    <td width="48%" align="center" valign="top">
+      <h3>⚡ Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  
+  <!-- Vertical spacing row -->
+  <tr height="30"></tr>
+  
+  <tr>
+    <!-- Backend -->
+    <td width="48%" align="center" valign="top">
+      <h3>🔥 Backend</h3>
+      <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,express,fastapi&theme=dark" alt="Backend" />
+    </td>
+    <!-- Spacer -->
+    <td width="4%"></td>
+    <!-- Databases -->
+    <td width="48%" align="center" valign="top">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark" alt="Databases" />
+    </td>
+  </tr>
+  
+  <!-- Vertical spacing row -->
+  <tr height="30"></tr>
+  
+  <tr>
+    <!-- DevOps & Tools (Centered across the bottom) -->
+    <td colspan="3" width="100%" align="center" valign="top">
+      <h3>☁️ DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx,apache,aws,firebase&theme=dark" alt="DevOps and Tools" />
+    </td>
+  </tr>
+</table>
 
 ---
 
